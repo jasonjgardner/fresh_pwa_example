@@ -1,0 +1,19 @@
+{
+  "short_name": "Fresh",
+  "name": "Fresh PWA",
+  "description": "Fresh PWA example",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "48x48"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
+  "background_color": "#86efac",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#86efac",
+  "shortcuts": []
+}
